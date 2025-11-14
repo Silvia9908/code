@@ -21,5 +21,6 @@ Function.prototype.call2 = function(context){
   delete cxt.fn
   return res
   //test
+  ///啊啊啊
   
 }
