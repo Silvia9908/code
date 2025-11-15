@@ -19,7 +19,5 @@ Function.prototype.call2 = function(context){
   // 相当于执行 context.fn(参数1, 参数2, ...)
   //4.清理临时属性
   delete cxt.fn
-  return res
-///aaa
-  
+
 }
